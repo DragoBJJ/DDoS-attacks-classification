@@ -1,0 +1,21 @@
+# Ignorowanie plików Jupyter Notebook
+*.ipynb_checkpoints
+
+# Ignorowanie plików tymczasowych
+*.pyc
+__pycache__/
+
+# Ignorowanie środowisk wirtualnych
+venv/
+env/
+.venv/
+
+# Ignorowanie plików konfiguracyjnych
+*.env
+*.DS_Store
+
+# Ignorowanie logów
+*.log
+
+# Ignorowanie plików danych
+data/
