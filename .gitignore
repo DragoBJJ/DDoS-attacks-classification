@@ -18,4 +18,4 @@ env/
 *.log
 
 # Ignorowanie plików danych
-data/
+data*
